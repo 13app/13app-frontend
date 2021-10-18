@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 
 // global stylesheet
-import './styles.less';
+// import './styles.less';
 
 // setup fake backend
 import { fakeBackend } from './_helpers';
